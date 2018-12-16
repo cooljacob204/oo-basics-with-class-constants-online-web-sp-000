@@ -7,7 +7,11 @@ class Shoe
   BRANDS = []
 
   def initialize(brand)
+<<<<<<< HEAD
     self.brand = brand
+=======
+    brand(brand)
+>>>>>>> dbbf05913e5e3a7a9e9400aaafaaee345c7e9fda
   end
 
   def brand=(brand)
